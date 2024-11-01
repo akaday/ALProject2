@@ -11,7 +11,10 @@
   "url": "",
   "logo": "",
   "dependencies": [],
-  "screenshots": [],
+  "screenshots": [
+    "screenshots/feature1.png",
+    "screenshots/feature2.png"
+  ],
   "platform": "1.0.0.0",
   "application": "26.0.0.0",
   "idRanges": [
